@@ -1,0 +1,35 @@
+# Task 02 - Titanic Dataset Exploratory Data Analysis (EDA)
+
+## Objective
+
+Perform Exploratory Data Analysis (EDA) on the Titanic dataset to understand passenger demographics and identify factors that influenced survival outcomes.
+
+## Tool Used
+
+* Tableau
+
+## Dataset
+
+Titanic Dataset
+
+## Dashboard Highlights
+
+* Survival Count Analysis
+* Survival by Gender
+* Passenger Class vs Survival
+* Age Distribution
+* Fare Distribution
+* Age vs Fare Analysis
+
+## Key Insights
+
+* A larger number of passengers did not survive compared to those who survived.
+* Survival rates varied significantly between male and female passengers.
+* Passenger class had a noticeable impact on survival outcomes.
+* Most passengers belonged to a specific age group, as observed in the age distribution.
+* Fare distribution showed that a majority of passengers paid lower fares, while a smaller group paid significantly higher fares.
+* Age and fare analysis helped identify patterns between passenger demographics and ticket pricing.
+
+## Outcome
+
+Developed an interactive Tableau dashboard to explore and visualize important trends in the Titanic dataset, providing meaningful insights into passenger survival patterns and demographic characteristics.
